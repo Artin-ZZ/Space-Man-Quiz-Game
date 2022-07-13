@@ -9,6 +9,7 @@ The game's Fetures:
 - Persian / English Database
 - Eight categories of questions
 - Get the coin answer if it is correct
+- Adding & Deleting Questions From The game's Database
 
 
 # RequireMents :
@@ -25,6 +26,8 @@ The game's Fetures:
 - pip install PyQt5Designer==5.14.1
 
 - pip install PyQt5-stubs==5.15.2.0
+
+- PyQt5.QtWebEngineWidgets
 
 # A Little Bit Aboute Me aka This game's Programmer & Developer :)
 
