@@ -29,6 +29,8 @@ The game's Fetures:
 
 - PyQt5.QtWebEngineWidgets
 
+- pip install Opencv-python
+
 # A Little Bit Aboute Me aka This game's Programmer & Developer :)
 
 - Full Name: Artin Zafari
